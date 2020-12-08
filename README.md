@@ -1,1 +1,0 @@
-How to have main in github
